@@ -66,7 +66,7 @@
         </div>
     </div>
     <footer class="footer-landing">
-        <div class="credit">Built by <a href="https://twitter.com/aschmelyun">&commat;aschmelyun</a> &mdash; <a href="https://github.com/aschmelyun/use-the-keyboard/issues/new?labels=new%20page">Make a request</a></div>
+        <div class="credit">Built by <a href="https://twitter.com/aschmelyun">&commat;aschmelyun</a> &mdash; <a href="https://github.com/aschmelyun/passhints/issues/new?labels=new%20page">Make a request</a></div>
     </footer>
     @include('partials.footer')
 </body>
