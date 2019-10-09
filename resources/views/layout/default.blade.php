@@ -33,7 +33,7 @@
                                 @endphp
                                 <div class="col-sm-12 col-md-4 col-lg-3 data-program" data-title="{{ $data->slug }}" data-slug="{{ $data->slug }}">
                                     <a class="program is-popular" href="/{{ $data->slug }}">
-                                        <img src="/assets/img/logo-{{ $data->slug }}.png" alt="{{ $data->title }} icon">
+                                        <img src="/assets/img/logo-{{ $data->slug }}.png" alt="{{ $data->title }} icon" width="48" height="48">
                                         <span>{{ $data->title }}</span>
                                     </a>
                                 </div>
