@@ -1,0 +1,28 @@
+{
+    "view": "layout.shortcut",
+    "slug": "fidelity",
+    "title": "Fidelity",
+    "meta_title": "Password requirements for Fidelity",
+    "meta_description": "A visual helper for the 7 requirements needed for a Fidelity password on their websites and mobile apps.",
+    "reference_link": "https://www.fidelity.com/psw/WS_PSW_Body_Frame/0,,PROBLEMS,00.html",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 16 characters in length",
+                "Must have at least one number",
+                "Must contain at least one uppercase and one lowercase letter",
+                "Must not contain more than 4 sequential digits (1234, 76543)",
+                "Must not share 5 or more characters with your User ID",
+                "Must not match either of your previous 2 passwords",
+                "Must not repeat the same character more than twice in a row"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords may only contain the following special characters: % ' ( ) + , - . / : ; < = > ? \\ ^ _ | ~"
+            ]
+        }
+    ]
+}

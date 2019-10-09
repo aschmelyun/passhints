@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "credit-karma",
+    "title": "Credit Karma",
+    "meta_title": "Password requirements for Credit Karma",
+    "meta_description": "A visual helper for the 2 requirements needed for a Credit Karma password on their website and mobile app.",
+    "reference_link": "https://www.creditkarma.com/question/what-are-credit-karmas-rules-for-passwords/",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 100 characters long",
+                "Must contain a mixture of letters and numbers"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords can contain symbols. Passwords cannot be pasted into a form at any point during registration or reset."
+            ]
+        }
+    ]
+}

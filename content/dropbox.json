@@ -1,0 +1,22 @@
+{
+    "view": "layout.shortcut",
+    "slug": "dropbox",
+    "title": "Dropbox",
+    "meta_title": "Password requirements for Dropbox",
+    "meta_description": "A visual helper for the 1 requirement needed for a Dropbox password on their website and mobile app.",
+    "reference_link": "https://help.dropbox.com/accounts-billing/create-delete/secure-password",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 6 characters long"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Dropbox uses an in-house built, open-source package to determine password strength. You can view it on GitHub at https://github.com/dropbox/zxcvbn"
+            ]
+        }
+    ]
+}

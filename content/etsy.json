@@ -1,0 +1,22 @@
+{
+    "view": "layout.shortcut",
+    "slug": "etsy",
+    "title": "Etsy",
+    "meta_title": "Password requirements for Etsy",
+    "meta_description": "A visual helper for the 1 requirement needed for a Etsy password on their website and mobile apps.",
+    "reference_link": "https://i.imgur.com/OPmbnly.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 6 characters long"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Etsy allows very basic passwords to be used, it's highly recommended that you enabled two-factor authentication on your account."
+            ]
+        }
+    ]
+}
