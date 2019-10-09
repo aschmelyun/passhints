@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "lastpass",
+    "title": "LastPass",
+    "meta_title": "Password requirements for LastPass",
+    "meta_description": "A visual helper for the 5 requirements needed for a LastPass master password on their website and mobile apps.",
+    "reference_link": "https://support.logmeininc.com/lastpass/help/what-is-the-lastpass-master-password-lp070014",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 12 characters long",
+                "Must use upper case letters, lower case letters, numbers, and special characters"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Master passcodes that were previously used on your account may be flagged when resetting the master password."
+            ]
+        }
+    ]
+}

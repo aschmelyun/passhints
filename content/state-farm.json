@@ -1,0 +1,24 @@
+{
+    "view": "layout.shortcut",
+    "slug": "state-farm",
+    "title": "State Farm",
+    "meta_title": "Password requirements for State Farm",
+    "meta_description": "A visual helper for the 3 requirements needed for a State Farm password on their website and mobile app.",
+    "reference_link": "https://www.statefarm.com/customer-care/privacy-security-center/user-id-password",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 5 and 32 characters in length",
+                "Must contain at least one letter",
+                "Must not contain spaces"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords are case sensitive and may only contain the following special characters: . ^ _ -"
+            ]
+        }
+    ]
+}

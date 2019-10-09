@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "microsoft",
+    "title": "Microsoft",
+    "meta_title": "Password requirements for Microsoft",
+    "meta_description": "A visual helper for the 2 requirements needed for a Microsoft password on their websites and mobile apps.",
+    "reference_link": "https://i.imgur.com/iAi6c4Q.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 8 characters long",
+                "Must not be that difficult to guess (password1, abc123)"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Microsoft has no restrictions on symbols or spaces in their passwords."
+            ]
+        }
+    ]
+}

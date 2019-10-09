@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "facebook",
+    "title": "Facebook",
+    "meta_title": "Password requirements for Facebook",
+    "meta_description": "A visual helper for the 2 requirements needed for a Facebook password on their website and mobile app.",
+    "reference_link": "https://i.imgur.com/j7dcwE3.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 6 characters long",
+                "Must not be that difficult to guess (password1, abc123)"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Facebook has no restrictions on symbols or spaces in their passwords."
+            ]
+        }
+    ]
+}

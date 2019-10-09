@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "geico",
+    "title": "Geico",
+    "meta_title": "Password requirements for Geico",
+    "meta_description": "A visual helper for the 2 requirements needed for a Geico password on their websites and mobile apps.",
+    "reference_link": "https://i.imgur.com/CzCJ5eV.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 16 characters in length",
+                "Must contain at least one number"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords are case sensitive and may only contain the following special characters: ! @ # $ % ^ & * ( ) _ -"
+            ]
+        }
+    ]
+}
