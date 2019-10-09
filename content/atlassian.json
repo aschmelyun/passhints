@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "atlassian",
+    "title": "Atlassian",
+    "meta_title": "Password requirements for Atlassian",
+    "meta_description": "A visual helper for the 2 requirements needed for Atlassian products passwords on their websites and mobile apps.",
+    "reference_link": "https://confluence.atlassian.com/cloud/password-policies-938859739.html",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 100 characters long",
+                "Must contain a mix of letters and numbers"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Atlassian uses an entropy score to determine password strength. Simple passwords like asdf or password1 will be branded as weak. Your account admin may also have set a separate password policy."
+            ]
+        }
+    ]
+}

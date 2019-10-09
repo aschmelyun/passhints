@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "ally",
+    "title": "Ally",
+    "meta_title": "Password requirements for Ally",
+    "meta_description": "A visual helper for the 2 requirements needed for an Ally bank account password on their website and mobile apps.",
+    "reference_link": "https://i.imgur.com/bNL0zUY.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 20 characters long",
+                "Must contain a mix of letters and numbers"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords are case sensitive."
+            ]
+        }
+    ]
+}

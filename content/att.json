@@ -1,0 +1,24 @@
+{
+    "view": "layout.shortcut",
+    "slug": "att",
+    "title": "AT&T",
+    "meta_title": "Password requirements for AT&T",
+    "meta_description": "A visual helper for the 3 requirements needed for AT&T passwords on their website and mobile app.",
+    "reference_link": "https://www.att.com/esupport/article.html#!/wireless/KM1045954?gsi=8l6crz",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Cannot be the same as your login ID",
+                "Must be between 6 and 24 characters long",
+                "May not be all letters or all numbers"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords can contain uppercase and lowercase letters, numbers, underscores, or hyphens."
+            ]
+        }
+    ]
+}
