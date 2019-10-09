@@ -1,6 +1,6 @@
 # Use The Keyboard
 
-The source behind [usethekeyboard.com](https://usethekeyboard.com)
+The source behind [passhints.co](https://passhints.co)
 
 ## Prerequisites
 If you'd like to clone this repo and use the underlying static site generator, you'll need to have the following installed on your environment:
@@ -20,11 +20,11 @@ All content for the site is stored in the `content` directory as JSON files. The
 
 During the site build process, each key in the content file is converted to a PHP variable and passed through to a Blade template engine for processing.
 
-For **Use The Keyboard**, these are the following required attributes and their purpose on rendered pages:
+For **PassHints**, these are the following required attributes and their purpose on rendered pages:
 
 - **view** - The Blade view template that these variables should be passed to. All pages use `layout.shortcut` except the landing page, which uses `layout.default`. 
 
-- **slug** - The string that appears in the URL after https://usethekeyboard.com/
+- **slug** - The string that appears in the URL after https://passhints.co/
 
 - **title** - The string that appears in the title before &rarr; UseTheKeyboard
 
@@ -35,10 +35,6 @@ For **Use The Keyboard**, these are the following required attributes and their 
 - **reference_link** - Where the "Original Reference" button links to on shortcut pages
 
 - **sections** - An array of objects, each one composed of a `name` and an array of `shortcuts`. These are used to display all main information on shortcut pages.
-
-The following are optional attributes:
-
-- **mac_only** - If an application is for MacOS-only, set this attribute to true. When the page loads up, Mac will be auto-selected regardless of OS and the visitor will not be able to select "Windows".
 
 ## Building the site
 
