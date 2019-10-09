@@ -1,0 +1,29 @@
+{
+    "view": "layout.shortcut",
+    "slug": "chase",
+    "title": "Chase",
+    "meta_title": "Password requirements for Chase",
+    "meta_description": "A visual helper for the 2 requirements needed for a Chase Bank password on their websites and mobile apps.",
+    "reference_link": "https://www.chase.com/index.jsp?pg_name=shared/help/page/hlp_ChangePswd_Update_pag",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 32 characters long",
+                "Must contain a combination of a number, letter, or special character",
+                "Must be different than your previous five passwords",
+                "Must not match your User ID",
+                "Must not include more than 2 identical characters (111 or aaa)",
+                "Must not include more than 2 consecutive characters (123 or abc)",
+                "Must not use the name of the financial institution (JPM, MORGAN, CHASE)",
+                "Must not be a commonly used password (password1)"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords can only contain the following special characters: # $ % ' ^ , ( ) * + : | = ? @ / [ ] _ ` { } ~ \\ ! ; -"
+            ]
+        }
+    ]
+}

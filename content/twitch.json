@@ -1,0 +1,22 @@
+{
+    "view": "layout.shortcut",
+    "slug": "twitch",
+    "title": "Twitch",
+    "meta_title": "Password requirements for Twitch",
+    "meta_description": "A visual helper for the 1 requirement needed for a Twitch password on their website and mobile apps.",
+    "reference_link": "https://help.twitch.tv/s/article/creating-a-strong-password?language=en_US",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 8 characters"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords that include dictionary words or obvious phrases may be flagged when resetting your password."
+            ]
+        }
+    ]
+}

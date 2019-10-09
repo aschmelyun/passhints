@@ -1,0 +1,24 @@
+{
+    "view": "layout.shortcut",
+    "slug": "xfinity",
+    "title": "Xfinity",
+    "meta_title": "Password requirements for Xfinity",
+    "meta_description": "A visual helper for the 3 requirements needed for Xfinity passwords on their website and mobile app.",
+    "reference_link": "https://i.imgur.com/Mpcsxgz.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 16 characters long",
+                "Must use at least one letter",
+                "Must use one number or special character"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Previous passwords may be flagged when you try and reset the password."
+            ]
+        }
+    ]
+}

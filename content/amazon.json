@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "amazon",
+    "title": "Amazon",
+    "meta_title": "Password requirements for Amazon",
+    "meta_description": "A visual helper for the 2 requirements needed for an Amazon password on their website and mobile app.",
+    "reference_link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909100",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 6 and 128 characters",
+                "Must not be a previously-used password"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords that include dictionary words, your name, or email address might be flagged when resetting a password."
+            ]
+        }
+    ]
+}

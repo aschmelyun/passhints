@@ -1,0 +1,26 @@
+{
+    "view": "layout.shortcut",
+    "slug": "capital-one",
+    "title": "Capital One",
+    "meta_title": "Password requirements for Capital One",
+    "meta_description": "A visual helper for the 5 requirements needed for a Capital One password on their website and mobile apps.",
+    "reference_link": "https://i.imgur.com/2uH88nY.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 32 characters",
+                "Must have at least one letter and one number",
+                "Cannot be the same as your username",
+                "Cannot contain any spaces",
+                "Can only use the following symbols: -_./\\@$*&!#"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Previously-used passwords may be flagged when creating a new password."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "bestbuy",
+    "title": "BestBuy",
+    "meta_title": "Password requirements for BestBuy",
+    "meta_description": "A visual helper for the 2 requirements needed for a BestBuy password on their website and mobile app.",
+    "reference_link": "https://i.imgur.com/BOp3xPt.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must contain upper and lowercase letters",
+                "Must contain a number or special character"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords can contain spaces or punctuation marks."
+            ]
+        }
+    ]
+}
