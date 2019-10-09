@@ -11,7 +11,7 @@
                 <h1 class="title-primary">{{ $meta_title }}</h1>
                 <p class="subtitle">{{ $meta_description }}</p>
                 <a href="{{ $reference_link }}" target="_blank" rel="noreferrer" class="btn btn-primary">Original Reference</a>
-                <a href="https://github.com/aschmelyun/use-the-keyboard/issues" target="_blank" rel="noreferrer" class="ml-2 btn btn-secondary">Report Issue</a>
+                <a href="https://github.com/aschmelyun/passhints/issues" target="_blank" rel="noreferrer" class="ml-2 btn btn-secondary">Report Issue</a>
             </div>
         </aside>
         <main class="content">
