@@ -1,0 +1,26 @@
+{
+    "view": "layout.shortcut",
+    "slug": "starbucks",
+    "title": "Starbucks",
+    "meta_title": "Password requirements for Starbucks",
+    "meta_description": "A visual helper for the 5 requirements needed for a Starbucks password on their website and mobile app.",
+    "reference_link": "https://i.imgur.com/GDgaZP0.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "From 8 to 25 characters",
+                "At least one number",
+                "At least one capital letter",
+                "At least one lowercase letter",
+                "At least one special character such as exclamation point or comma"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "You cannot use any other password you've used before. If you try to, it won't let you continue and will throw an error."
+            ]
+        }
+    ]
+}
