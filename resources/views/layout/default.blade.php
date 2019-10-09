@@ -16,7 +16,7 @@
                 <div class="col-md-7 intro-wrapper">
                     <div class="intro-text">
                         <h1 class="title-primary">PassHints.co</h1>
-                        <p class="subtitle">A collection of password hints and requirements for websites and mobile apps.</p>
+                        <p class="subtitle">A repository of password hints and requirements for websites and mobile apps.</p>
                         <label for="searchInput" class="sr-only">Search for shortcuts</label>
                         <input type="text" class="search-input" id="searchInput" name="searchInput" placeholder="Search..." v-model="searchInput">
                     </div>

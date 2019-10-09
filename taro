@@ -55,7 +55,7 @@ class Taro
             ->depth(0);
 
         foreach($directories as $dir) {
-            rmdir($dir);
+            $this->rmDirRecursive($dir);
         }
 
         $files = $finder->files()
@@ -69,6 +69,16 @@ class Taro
         }
 
         return true;
+    }
+
+    public function rmDirRecursive($dir) {
+        $it = new RecursiveDirectoryIterator($dir, FilesystemIterator::SKIP_DOTS);
+        $it = new RecursiveIteratorIterator($it, RecursiveIteratorIterator::CHILD_FIRST);
+        foreach($it as $file) {
+            if ($file->isDir()) rmdir($file->getPathname());
+            else unlink($file->getPathname());
+        }
+        rmdir($dir);
     }
 
     public function dataHasErrors($data, $file)
