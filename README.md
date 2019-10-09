@@ -1,4 +1,4 @@
-# Use The Keyboard
+# PassHints
 
 The source behind [passhints.co](https://passhints.co)
 
