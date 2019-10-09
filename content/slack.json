@@ -1,0 +1,22 @@
+{
+    "view": "layout.shortcut",
+    "slug": "slack",
+    "title": "Slack",
+    "meta_title": "Password requirements for Slack",
+    "meta_description": "A visual helper for the 1 requirement needed for a Slack account password on their website and mobile app.",
+    "reference_link": "https://slack.com/help/articles/201909068-reset-your-password",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "6 characters or more"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "It's not required, but recommended to have a combination of letters, symbols, and numbers. Alternatively, you can sign in with a magic link instead of a traditional password."
+            ]
+        }
+    ]
+}

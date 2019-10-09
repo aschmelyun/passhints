@@ -41,7 +41,7 @@
                         </div>
                     </section>
                     <section class="shortcut-section">
-                        <h3 class="title-section"><span>All Programs</span></h3>
+                        <h3 class="title-section"><span>All Websites and Apps</span></h3>
                         <div class="row row-programs">
                             @php
                                 $contentFiles = array_diff(scandir($contentDir), array('.', '..'));

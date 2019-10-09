@@ -12,15 +12,15 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ $meta_title ?? 'Password hints for websites and mobile apps' }}" />
     <meta property="og:description" content="{{ $meta_description ?? '' }}" />
-    <meta property="og:url" content="https://usethekeyboard.com/{{ $slug === '/' ? '' : $slug }}" />
+    <meta property="og:url" content="https://passhints.co/{{ $slug === '/' ? '' : $slug }}" />
     <meta property="og:site_name" content="PassHints" />
-    <meta property="og:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes-square.png" />
+    <meta property="og:image" content="https://passhints.co/assets/img/passhints-social-image.png" />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="{{ $meta_description ?? '' }}" />
     <meta name="twitter:title" content="{{ $meta_title ?? 'Password hints for websites and mobile apps' }}" />
     <meta name="twitter:site" content="@aschmelyun" />
-    <meta name="twitter:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes-square.png" />
+    <meta name="twitter:image" content="https://passhints.co/assets/img/passhints-social-image.png" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
@@ -29,12 +29,4 @@
 
     <link rel="stylesheet" type="text/css" href="{{ $mix['/assets/css/app.css']  }}">
     <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
-
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-5644982708290077",
-            enable_page_level_ads: true
-        });
-    </script>
 </head>
