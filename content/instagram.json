@@ -1,18 +1,17 @@
 {
     "view": "layout.shortcut",
-    "slug": "google",
-    "title": "Google",
-    "meta_title": "Password requirements for Google",
+    "slug": "instagram",
+    "title": "Instagram",
+    "meta_title": "Password requirements for Instagram",
     "meta_description": "A visual helper for the 4 requirements needed for a Google account password across their websites and mobile apps.",
     "reference_link": "https://support.google.com/accounts/answer/32040?hl=en",
     "sections": [
         {
             "name": "Requirements",
             "shortcuts": [
-                "8 characters or more",
+                "6 characters or more",
                 "Cannot be particularly weak (like password123)",
-                "Must contain some mix of letters, numbers, and/or symbols",
-                "Cannot start or end with a blank space"
+                "Must contain some mix of letters, numbers, and/or symbols"
             ]
         },
         {

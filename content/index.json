@@ -1,8 +1,8 @@
 {
     "view": "layout.default",
     "slug": "/",
-    "title": "Use The Keyboard",
-    "meta_title": "A collection of keyboard shortcuts for Mac apps, Windows programs, and websites",
-    "meta_description": "A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.",
+    "title": "PassHints",
+    "meta_title": "Password hints for websites and mobile apps",
+    "meta_description": "A repository of password hints and requirements for websites and mobile apps.",
     "popular": []
 }
