@@ -1,0 +1,28 @@
+{
+    "view": "layout.shortcut",
+    "slug": "nationwide",
+    "title": "Nationwide",
+    "meta_title": "Password requirements for Nationwide",
+    "meta_description": "A visual helper for the 7 requirements needed for a Nationwide Insurance password on their website and mobile apps.",
+    "reference_link": "https://www.nationwidespecialtyinsurance.com/nhp/pops/learn-more-pop.jsp",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 7 and 30 characters in length",
+                "Must contain 3 of these: uppercase letters, lowercase letters, numbers, and special characters",
+                "Cannot be all numbers",
+                "Cannot contain any spaces",
+                "Cannot use any of these special characters: ^ & * ( ) < > \" ' %",
+                "Cannot match your username",
+                "Cannot solely consist of basic sequential characters (aaa, 111)"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords are case sensitive, common phrases may be flagged when resetting your password."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "view": "layout.shortcut",
+    "slug": "netflix",
+    "title": "Netflix",
+    "meta_title": "Password requirements for Netflix",
+    "meta_description": "A visual helper for the 2 requirements needed for a Netflix account password on their website and mobile apps.",
+    "reference_link": "https://help.netflix.com/en/node/54078",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 4 and 60 characters in length",
+                "Must not contain a tilde (~)"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Netflix does not have any restrictions on commonly-guessed passwords and also does not currently have two-factor authentication."
+            ]
+        }
+    ]
+}

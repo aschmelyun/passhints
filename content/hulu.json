@@ -1,0 +1,22 @@
+{
+    "view": "layout.shortcut",
+    "slug": "hulu",
+    "title": "Hulu",
+    "meta_title": "Password requirements for Hulu",
+    "meta_description": "A visual helper for the 1 requirement needed for a Hulu account password on their website and mobile apps.",
+    "reference_link": "https://i.imgur.com/I1lpflk.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 6 characters in length"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Hulu does not have any restrictions on commonly-guessed passwords and also does not currently have two-factor authentication."
+            ]
+        }
+    ]
+}

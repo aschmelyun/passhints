@@ -1,0 +1,28 @@
+{
+    "view": "layout.shortcut",
+    "slug": "stripe",
+    "title": "Stripe",
+    "meta_title": "Password requirements for Stripe",
+    "meta_description": "A visual helper for the 7 requirements needed for a Stripe account password on their website and mobile app.",
+    "reference_link": "https://support.stripe.com/questions/account-password-restrictions",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 8 characters in length",
+                "Must not be an English dictionary word",
+                "Must not be a common name or surname",
+                "Must not be a 'statistically common' password",
+                "Must not be a chain of repeated characters or numbers (99999, aaaaa)",
+                "Must not be a sequence of characters or numbers (12345, abcde)",
+                "Must not be a date (12-23-1996)"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Stripe notes that these requirements are only the fundamentals and satisfying them does not guarantee that your password is strong."
+            ]
+        }
+    ]
+}
