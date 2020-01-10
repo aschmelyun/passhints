@@ -1,0 +1,17 @@
+{
+    "view": "layout.shortcut",
+    "slug": "disney-plus",
+    "title": "Disney Plus",
+    "meta_title": "Password requirements for Disney Plus",
+    "meta_description": "A visual helper for the 2 requirements needed for a Disney Plus password on their website and mobile apps.",
+    "reference_link": "https://i.imgur.com/HVpnBjv.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 6 characters long",
+                "Must have at least one number or special character"
+            ]
+        }
+    ]
+}

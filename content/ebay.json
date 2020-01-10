@@ -1,0 +1,17 @@
+{
+    "view": "layout.shortcut",
+    "slug": "ebay",
+    "title": "Ebay",
+    "meta_title": "Password requirements for Ebay",
+    "meta_description": "A visual helper for the 2 requirements needed for an Ebay password on their website and mobile apps.",
+    "reference_link": "https://i.imgur.com/ciOy6wB.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 6 and 64 characters long",
+                "Must have at least one number or one of the following special characters: ! @ # $ % ^ * - _ + = & ~"
+            ]
+        }
+    ]
+}
