@@ -1,0 +1,24 @@
+{
+    "view": "layout.shortcut",
+    "slug": "apple",
+    "title": "Apple",
+    "meta_title": "Password requirements for Apple",
+    "meta_description": "A visual helper for the 3 requirements needed for Apple passwords on their website and AppleID passwords.",
+    "reference_link": "https://i.imgur.com/8SVK75W.png",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be at least 8 characters long",
+                "Must contain both upper and lowercase letters",
+                "Must contain at least one number"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords can contain uppercase and lowercase letters, numbers, underscores, or hyphens."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "view": "layout.shortcut",
+    "slug": "verizon",
+    "title": "Verizon",
+    "meta_title": "Password requirements for Verizon",
+    "meta_description": "A visual helper for the 3 requirements needed for Verizon passwords on their website and mobile apps.",
+    "reference_link": "https://www.verizon.com/support/knowledge-base-17384/",
+    "sections": [
+        {
+            "name": "Requirements",
+            "shortcuts": [
+                "Must be between 8 and 20 characters long",
+                "Must contain at least one letter",
+                "Must contain at least one number"
+            ]
+        },
+        {
+            "name": "Additional Info",
+            "shortcuts": [
+                "Passwords cannot be easy to guess."
+            ]
+        }
+    ]
+}
