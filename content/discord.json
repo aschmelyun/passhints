@@ -4,12 +4,12 @@
     "title": "Discord",
     "meta_title": "Password requirements for Discord",
     "meta_description": "A visual helper for the 1 requirement needed for a Discord password on their website and mobile apps.",
-    "reference_link": "https://i.imgur.com/0Yf8a37.png",
+    "reference_link": "https://i.imgur.com/EYTQEnM.png",
     "sections": [
         {
             "name": "Requirements",
             "shortcuts": [
-                "Must be between 6 and 128 characters long"
+                "Must be between 6 and 72 characters long"
             ]
         },
         {
